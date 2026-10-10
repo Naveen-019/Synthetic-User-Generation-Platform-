@@ -183,7 +183,7 @@ This project is currently under development. Distributed under the MIT License. 
 
 ## 📞 Contact
 
-**Ayon Paul** - [ayonpaul8906@gmail.com](mailto:ayonpaul8906@gmail.com)
+**Naveen** - [naveen](mailto:naveenkumar@gmail.com)
 
 Project Link: [SynthScope](https://synthscope.vercel.app)
 
